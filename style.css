@@ -10,23 +10,26 @@
 .sandwich {
     position: relative;
     width: 400px;
+    height: 100px;
+    background-color: rosybrown;
 }
 
 .lettuce {
+    top: 20px;
     width: 100%;
     height: 30px;
     background-color: green;
 }
 
 .cheese {
-    top: 30px;
+    top: 50px;
     width: 100%;
     height: 10px;
     background-color: orange;
 }
 
 .tomato {
-    top: 40px;
+    top: 60px;
     width: 100%;
     height: 20px;
     background-color: darkred;
