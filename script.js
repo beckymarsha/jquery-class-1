@@ -25,7 +25,8 @@ lettuce.click(lettuceClicked);
 lettuce.click(function() {
     $(this).animate(
         {
-        height: "+=50"
+        height: "+=50",
+        width: "+=50"
     },
     1000
     );
